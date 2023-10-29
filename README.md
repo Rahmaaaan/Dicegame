@@ -12,7 +12,7 @@ The Dice Game is a simple and enjoyable game that lets you test your luck and st
 
 ## Demo
 
-To try out the Dice Game and see how it works, you can access our live demo [here](#).
+To try out the Dice Game and see how it works, you can access our live demo [here](https://rahmaaaan.github.io/Dicegame/).
 
 ## Installation
 
