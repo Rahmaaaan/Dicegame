@@ -1,10 +1,10 @@
 # Dice Game
 
-🎲 [Description](#description)
-🎲 [Demo](#demo)
-🎲 [Installation](#installation)
-🎲 [How to Play](#how-to-play)
-🎲 [Contributing](#contributing)
+- 🎲 [Description](#description)
+- 🎲 [Demo](#demo)
+- 🎲 [Installation](#installation)
+- 🎲 [How to Play](#how-to-play)
+- 🎲 [Contributing](#contributing)
 
 ## Description
 
