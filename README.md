@@ -31,6 +31,10 @@ Playing the Dice Game is a breeze:
 4. Depending on the rules, you may earn points based on the outcome.
 5. Play multiple rounds and try to achieve the highest score.
 
+## Screenshots
+
+![Home Page](homepage.PNG)
+
 ## Contributing
 
 Contributions to the Dice Game project are welcome. If you have ideas for new features, improvements, or find any issues, please feel free to create a pull request or submit an issue on our GitHub repository. Your input is greatly appreciated.
